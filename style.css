@@ -1,3 +1,33 @@
-.classe1{
-    color: black;
+.classe1 {
+width: 350px;
+height: 100px;
+margin: 25px auto;
+padding: 15px;
+border: 20px solid black ;
+}
+
+.classe2 {
+    width: 460px;
+    height: 140px;
+    margin: 15px auto;
+    padding: 17px;
+    border: 20px solid red ;
+}
+
+.classe3 {
+    width: 170px;
+    height: 150px;
+    margin: 5px ;
+    padding: 7px;
+    border: 20px solid blue ;
+    float:right
+}
+
+
+.classe4 {
+    width: 160px;
+    height: 150px;
+    margin: 9px;
+    padding: 8px;
+    border: 20px solid rebeccapurple ;
 }
